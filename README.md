@@ -9,7 +9,7 @@ Nerd / Geek, Computer Science Student and Software / Machine Learning / Computer
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [linkedin](http://linkedin.com/in/mkhussine/)
 * ✉️  You can contact me at [mohamedyahussien@gmail.com](mailto:mohamedyahussien@gmail.com)
-* 🧠  I'm learning 2D Computer Vision
+* 🧠  I'm a Machine Learning student
 * 🤝  I'm open to collaborating on Deep learning projects
 
 ### Skills
